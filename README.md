@@ -37,6 +37,6 @@ The notebooks is exploratory in searching through the data pertaining to the que
 Markdown cells & comments were used to assist in walking through the thought process for individual steps.
 BankChurners.csv       - The data set has 10,000 customers with attributes such as age, salary, marital status, credit limit, card category, among others. There are approximately 18 features in the whole set and there are only 16.0% of customers with churn
 ## Results<a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@lin.jiadan.1029/data-exploration-on-black-friday-dataset-from-kaggle-ea3f4b7a6798).
+The main findings of the code can be found at the post available [here](https://msub83.medium.com/who-is-gonna-churn-9181bc79d508).
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/sakshigoyal7/credit-card-customers). Otherwise, feel free to use the code here as you would like! 
