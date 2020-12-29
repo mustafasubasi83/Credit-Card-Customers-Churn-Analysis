@@ -18,12 +18,17 @@ This will provide us insight into which customers are eager to churn.
 The top priority of this case is to identify if a customer will churn or won't. It's important that we don't predict churning as non-churning customers. 
 That's why the model needs to be evaluated on the "Recall"- metric (goal > 62%).
 
-### Business and Data Understandig
-Question1: How many customers have some attrition with the bank ?
-Question2: How demographic variables are impact to earger the churn ?
-Question3: How are the relationship with the variables vs churn ?
-Question4: What are the diffirences between Non Churn and Churn Profiles ?
-Question5: Who's gonna churn ?
+**Business and Data Understandig Questions:**
+
+> How many customers have some attrition with the bank?
+
+> How demographic variables are impact to earger the churn?
+
+> How are the relationship with the variables vs churn?
+
+> What are the diffirences between Non Churn and Churn Profiles?
+
+> Who's gonna churn?
 
 ## File Descriptions <a name="files"></a>
 
